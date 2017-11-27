@@ -1,8 +1,7 @@
 # TimodenHartog-Unit4-VinylNeeded
 
-These screenshots lead you through the different views my quiz has.
+These screenshots lead you through the different views my list of needed vinyl has.
 
-![sceenshot](Quizscreen2.png)
-![sceenshot](Quizscreen3.png)
-![sceenshot](Quizscreen4.png)
-![sceenshot](Quizscreen5.png)
+![sceenshot](ListScreen1.png)
+![sceenshot](ListScreen2.png)
+![sceenshot](ListScreen3.png)
